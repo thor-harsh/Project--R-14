@@ -2,7 +2,7 @@
 
 <table>
   The iris dataset is a built-in dataset in R that contains measurements on 4 different attributes (in centimeters) for 50 flowers from 3 different species.
-  These measures were used to create a svm model to classify the species.<br>
+  These measures were used to create a svm model to classify the species.<br><br/>
   The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 </table>
 
